@@ -1,2 +1,5 @@
 海洋動力學.lnk
 *.asv
+
+# Large files
+# find * -size +50M | cat >> .gitignore 
